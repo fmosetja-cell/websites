@@ -1,0 +1,17 @@
+/*
+Theme Name: Showtime Classic
+Theme URI: https://showtimeentertainment.co.za
+Author: Showtime Entertainment
+Author URI: https://showtimeentertainment.co.za
+Description: Classic (PHP-template) edition of the Showtime Entertainment theme, built for page builders like Elementor. Ships the brand chrome only — pure-black canvas, self-hosted brand fonts, transparent top nav with full-screen menu overlay, widget-based footer — with no hard-coded page content. Every page renders the_content, so all content is yours to build.
+Requires at least: 6.0
+Tested up to: 6.8
+Requires PHP: 7.4
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: showtime-classic
+Tags: one-column, custom-menu, dark, theme-options
+*/
+
+/* All styles live in assets/css/main.css (enqueued by functions.php). */
