@@ -886,6 +886,14 @@ ul.st-pgrid > li {
 	margin-top: 48px;
 }
 
+/* ---------- Canvas template (page builders / free-form pages) ---------- */
+
+/* Clear the 56px transparent nav so builder content is not covered. */
+.st-canvas {
+	padding-top: 56px;
+	min-height: 60vh;
+}
+
 /* ---------- 404 ---------- */
 
 .st-404 {

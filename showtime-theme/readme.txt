@@ -42,6 +42,11 @@ no gradients, weight 400 only.
    to the underline-input spec in assets/css/showtime.css.
 6. Social links: the footer Instagram/Facebook entries are plain text
    until the client supplies URLs (edit patterns/footer.php).
+7. Page builders (Elementor etc.): the five designed pages are native
+   block templates — edit them in Appearance → Editor, not with a
+   builder. For additional free-form pages, assign the "Canvas (page
+   builder)" template (Page → Template) — it renders the page content
+   between the site header and footer, which is what builders need.
 
 == Fonts ==
 

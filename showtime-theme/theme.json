@@ -160,6 +160,7 @@
     { "name": "footer", "title": "Footer", "area": "footer" }
   ],
   "customTemplates": [
+    { "name": "page-canvas", "title": "Canvas (page builder)", "postTypes": ["page"] },
     { "name": "page-services", "title": "Services", "postTypes": ["page"] },
     { "name": "page-about", "title": "About", "postTypes": ["page"] },
     { "name": "page-contact", "title": "Contact", "postTypes": ["page"] }
