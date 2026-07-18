@@ -112,3 +112,45 @@
 .person-card .portrait-frame { aspect-ratio: 1/1; margin-bottom: 12px; font-size: .72rem; }
 .person-card h4 { font-size: .95rem; margin: 0 0 2px; font-family: var(--font-sans); font-weight: 700; }
 .person-card span { font-size: .78rem; color: var(--charcoal-70); }
+/* =======================================================================
+   Mokhetle × Elementor — Round 1 calibration patch
+   Fixes headings rendering in Elementor's default font/colour instead of
+   the firm's Cormorant Garamond serif, and firms up the pillar icon circle.
+   (Folded into the child theme's elementor-overrides.css for the final build;
+   provided here to paste into Appearance → Customize → Additional CSS for a
+   quick, no-reupload test.)
+   ======================================================================= */
+
+/* Headings: force the firm serif + dark colour over Elementor's Global Kit. */
+.elementor-widget-heading .elementor-heading-title {
+	font-family: var(--font-serif) !important;
+	color: var(--black);
+	font-weight: 600;
+	line-height: 1.15;
+}
+/* Eyebrows stay sans + bronze (declared AFTER the serif rule so it wins). */
+.elementor-widget.eyebrow .elementor-heading-title {
+	font-family: var(--font-sans) !important;
+	color: var(--bronze-dark);
+	text-transform: uppercase;
+	letter-spacing: .14em;
+	font-size: .72rem;
+	font-weight: 600;
+	line-height: 1.4;
+}
+/* White headings on the dark / hero bands. */
+.band-dark .elementor-widget-heading .elementor-heading-title,
+.inner-hero .elementor-widget-heading .elementor-heading-title,
+.hero-approachable .elementor-widget-heading .elementor-heading-title { color: var(--white); }
+.band-dark .elementor-widget.eyebrow .elementor-heading-title,
+.inner-hero .elementor-widget.eyebrow .elementor-heading-title,
+.hero-approachable .elementor-widget.eyebrow .elementor-heading-title { color: var(--bronze); }
+
+/* Pillar icon: bronze glyph inside a beige circle (covers <i> and inline SVG). */
+.elementor-widget.pillar .elementor-icon {
+	display: inline-flex; align-items: center; justify-content: center;
+	width: 44px; height: 44px; border-radius: 50%;
+	background: var(--beige); color: var(--bronze-dark); font-size: 1.1rem;
+}
+.elementor-widget.pillar .elementor-icon i { color: var(--bronze-dark); }
+.elementor-widget.pillar .elementor-icon svg { width: 20px; height: 20px; fill: var(--bronze-dark); }
