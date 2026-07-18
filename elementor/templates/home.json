@@ -1,0 +1,1428 @@
+{
+  "content": [
+    {
+      "id": "mok0008",
+      "elType": "section",
+      "settings": {
+        "structure": "20",
+        "content_width": "boxed",
+        "gap": "default",
+        "_css_classes": "mok-band hero-approachable",
+        "padding": {
+          "unit": "px",
+          "top": "112",
+          "right": "0",
+          "bottom": "96",
+          "left": "0",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#2B2A28"
+      },
+      "elements": [
+        {
+          "id": "mok0005",
+          "elType": "column",
+          "settings": {
+            "_column_size": 55,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "mok0001",
+              "elType": "widget",
+              "settings": {
+                "title": "Mokhetle Attorneys Inc. · Since 2014",
+                "header_size": "h6",
+                "_css_classes": "eyebrow"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "mok0002",
+              "elType": "widget",
+              "settings": {
+                "title": "Experienced Legal Counsel. Strategic Solutions. Trusted Representation.",
+                "header_size": "h1"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "mok0003",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p style=\"max-width:520px;\">We provide responsive legal representation, advisory services, forensic investigations and dispute-resolution solutions to individuals, businesses and public-sector institutions.</p>"
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            },
+            {
+              "id": "mok0004",
+              "elType": "widget",
+              "settings": {
+                "html": "<div class=\"hero-ctas\"><a class=\"btn btn-primary\" href=\"/contact/\">Speak to an Attorney</a> <a class=\"btn btn-outline\" href=\"/ai-legal-assistant/\">Start a Secure Enquiry</a></div><div class=\"hero-ctas-secondary\"><a href=\"/practice-areas/\">Explore Our Services &rarr;</a> <a href=\"/correspondent-attorney-services/\">Correspondent Instructions &rarr;</a></div>"
+              },
+              "elements": [],
+              "widgetType": "html"
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "mok0007",
+          "elType": "column",
+          "settings": {
+            "_column_size": 45,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "mok0006",
+              "elType": "widget",
+              "settings": {
+                "html": "<div class=\"portrait-frame\">Firm exterior / consultation-setting photography to be supplied by the firm</div>"
+              },
+              "elements": [],
+              "widgetType": "html"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "mok000d",
+      "elType": "section",
+      "settings": {
+        "structure": "10",
+        "content_width": "boxed",
+        "gap": "default",
+        "_css_classes": "mok-band",
+        "padding": {
+          "unit": "px",
+          "top": "88",
+          "right": "0",
+          "bottom": "88",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "mok000c",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null,
+            "_css_classes": "mok-center"
+          },
+          "elements": [
+            {
+              "id": "mok0009",
+              "elType": "widget",
+              "settings": {
+                "title": "Who We Are",
+                "header_size": "h6",
+                "_css_classes": "eyebrow"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "mok000a",
+              "elType": "widget",
+              "settings": {
+                "title": "Accessible. Efficient. Responsive. Technologically Sophisticated.",
+                "header_size": "h2"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "mok000b",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p>Mokhetle Attorneys Inc. delivers intelligent, solution-driven legal services to individuals, businesses, municipalities and government institutions, with professionalism, integrity and purpose.</p>"
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "mok0016",
+      "elType": "section",
+      "settings": {
+        "structure": "40",
+        "content_width": "boxed",
+        "gap": "default",
+        "_css_classes": "mok-band",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "88",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "mok000f",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "mok000e",
+              "elType": "widget",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-handshake",
+                  "library": "fa-solid"
+                },
+                "title_text": "Client-Centred",
+                "description_text": "We listen, we understand, we deliver.",
+                "position": "top",
+                "_css_classes": "pillar"
+              },
+              "elements": [],
+              "widgetType": "icon-box"
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "mok0011",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "mok0010",
+              "elType": "widget",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-scale-balanced",
+                  "library": "fa-solid"
+                },
+                "title_text": "Ethical &amp; Dependable",
+                "description_text": "Upholding the highest standards of professional conduct.",
+                "position": "top",
+                "_css_classes": "pillar"
+              },
+              "elements": [],
+              "widgetType": "icon-box"
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "mok0013",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "mok0012",
+              "elType": "widget",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-microchip",
+                  "library": "fa-solid"
+                },
+                "title_text": "Technology-Enabled",
+                "description_text": "AI-assisted intake for faster, more transparent service.",
+                "position": "top",
+                "_css_classes": "pillar"
+              },
+              "elements": [],
+              "widgetType": "icon-box"
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "mok0015",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "mok0014",
+              "elType": "widget",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-building-columns",
+                  "library": "fa-solid"
+                },
+                "title_text": "Institutionally Trusted",
+                "description_text": "Proven experience across the public and private sectors.",
+                "position": "top",
+                "_css_classes": "pillar"
+              },
+              "elements": [],
+              "widgetType": "icon-box"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "mok001a",
+      "elType": "section",
+      "settings": {
+        "structure": "10",
+        "content_width": "boxed",
+        "gap": "default",
+        "_css_classes": "mok-band tag-band",
+        "padding": {
+          "unit": "px",
+          "top": "88",
+          "right": "0",
+          "bottom": "88",
+          "left": "0",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#FFFFFF"
+      },
+      "elements": [
+        {
+          "id": "mok0019",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null,
+            "_css_classes": "mok-center"
+          },
+          "elements": [
+            {
+              "id": "mok0017",
+              "elType": "widget",
+              "settings": {
+                "title": "Our Practice Areas",
+                "header_size": "h6",
+                "_css_classes": "eyebrow"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "mok0018",
+              "elType": "widget",
+              "settings": {
+                "title": "Comprehensive Legal Solutions",
+                "header_size": "h2"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "mok002d",
+      "elType": "section",
+      "settings": {
+        "structure": "10",
+        "content_width": "boxed",
+        "gap": "default",
+        "_css_classes": "mok-band tag-band",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "88",
+          "left": "0",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#FFFFFF"
+      },
+      "elements": [
+        {
+          "id": "mok002c",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "mok0023",
+              "elType": "section",
+              "settings": {
+                "structure": "40",
+                "content_width": "boxed",
+                "gap": "default",
+                "_css_classes": "mok-grid-row",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                }
+              },
+              "elements": [
+                {
+                  "id": "mok001c",
+                  "elType": "column",
+                  "settings": {
+                    "_column_size": 25,
+                    "_inline_size": null
+                  },
+                  "elements": [
+                    {
+                      "id": "mok001b",
+                      "elType": "widget",
+                      "settings": {
+                        "selected_icon": {
+                          "value": "fas fa-car-burst",
+                          "library": "fa-solid"
+                        },
+                        "title_text": "Personal Injury &amp; Medical Negligence",
+                        "description_text": "RAF claims, medical negligence claims and personal injury litigation.",
+                        "position": "top",
+                        "_css_classes": "practice-card",
+                        "link": {
+                          "url": "/personal-injury/",
+                          "is_external": "",
+                          "nofollow": ""
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "icon-box"
+                    }
+                  ],
+                  "isInner": false
+                },
+                {
+                  "id": "mok001e",
+                  "elType": "column",
+                  "settings": {
+                    "_column_size": 25,
+                    "_inline_size": null
+                  },
+                  "elements": [
+                    {
+                      "id": "mok001d",
+                      "elType": "widget",
+                      "settings": {
+                        "selected_icon": {
+                          "value": "fas fa-gavel",
+                          "library": "fa-solid"
+                        },
+                        "title_text": "Civil Litigation",
+                        "description_text": "Urgent applications, High Court litigation, appeals and commercial disputes.",
+                        "position": "top",
+                        "_css_classes": "practice-card",
+                        "link": {
+                          "url": "/contact/",
+                          "is_external": "",
+                          "nofollow": ""
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "icon-box"
+                    }
+                  ],
+                  "isInner": false
+                },
+                {
+                  "id": "mok0020",
+                  "elType": "column",
+                  "settings": {
+                    "_column_size": 25,
+                    "_inline_size": null
+                  },
+                  "elements": [
+                    {
+                      "id": "mok001f",
+                      "elType": "widget",
+                      "settings": {
+                        "selected_icon": {
+                          "value": "fas fa-people-group",
+                          "library": "fa-solid"
+                        },
+                        "title_text": "Labour &amp; Employment Law",
+                        "description_text": "CCMA, Labour Court, disciplinary hearings and workplace investigations.",
+                        "position": "top",
+                        "_css_classes": "practice-card",
+                        "link": {
+                          "url": "/contact/",
+                          "is_external": "",
+                          "nofollow": ""
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "icon-box"
+                    }
+                  ],
+                  "isInner": false
+                },
+                {
+                  "id": "mok0022",
+                  "elType": "column",
+                  "settings": {
+                    "_column_size": 25,
+                    "_inline_size": null
+                  },
+                  "elements": [
+                    {
+                      "id": "mok0021",
+                      "elType": "widget",
+                      "settings": {
+                        "selected_icon": {
+                          "value": "fas fa-landmark",
+                          "library": "fa-solid"
+                        },
+                        "title_text": "Municipal &amp; Public-Sector Law",
+                        "description_text": "Advisory services, by-laws, governance and compliance.",
+                        "position": "top",
+                        "_css_classes": "practice-card",
+                        "link": {
+                          "url": "/contact/",
+                          "is_external": "",
+                          "nofollow": ""
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "icon-box"
+                    }
+                  ],
+                  "isInner": false
+                }
+              ],
+              "isInner": true
+            },
+            {
+              "id": "mok002b",
+              "elType": "section",
+              "settings": {
+                "structure": "40",
+                "content_width": "boxed",
+                "gap": "default",
+                "_css_classes": "mok-grid-row",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": true
+                }
+              },
+              "elements": [
+                {
+                  "id": "mok0025",
+                  "elType": "column",
+                  "settings": {
+                    "_column_size": 25,
+                    "_inline_size": null
+                  },
+                  "elements": [
+                    {
+                      "id": "mok0024",
+                      "elType": "widget",
+                      "settings": {
+                        "selected_icon": {
+                          "value": "fas fa-file-signature",
+                          "library": "fa-solid"
+                        },
+                        "title_text": "Commercial &amp; Corporate Law",
+                        "description_text": "Contracts, legal opinions, due diligence and governance advisory.",
+                        "position": "top",
+                        "_css_classes": "practice-card",
+                        "link": {
+                          "url": "/contact/",
+                          "is_external": "",
+                          "nofollow": ""
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "icon-box"
+                    }
+                  ],
+                  "isInner": false
+                },
+                {
+                  "id": "mok0027",
+                  "elType": "column",
+                  "settings": {
+                    "_column_size": 25,
+                    "_inline_size": null
+                  },
+                  "elements": [
+                    {
+                      "id": "mok0026",
+                      "elType": "widget",
+                      "settings": {
+                        "selected_icon": {
+                          "value": "fas fa-magnifying-glass-chart",
+                          "library": "fa-solid"
+                        },
+                        "title_text": "Forensic Investigations",
+                        "description_text": "Forensic audits, asset tracing and irregular expenditure reviews.",
+                        "position": "top",
+                        "_css_classes": "practice-card",
+                        "link": {
+                          "url": "/forensic-investigations/",
+                          "is_external": "",
+                          "nofollow": ""
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "icon-box"
+                    }
+                  ],
+                  "isInner": false
+                },
+                {
+                  "id": "mok0029",
+                  "elType": "column",
+                  "settings": {
+                    "_column_size": 25,
+                    "_inline_size": null
+                  },
+                  "elements": [
+                    {
+                      "id": "mok0028",
+                      "elType": "widget",
+                      "settings": {
+                        "selected_icon": {
+                          "value": "fas fa-scale-unbalanced",
+                          "library": "fa-solid"
+                        },
+                        "title_text": "Correspondent Attorney Services",
+                        "description_text": "Local support for High Court matters on behalf of instructing attorneys.",
+                        "position": "top",
+                        "_css_classes": "practice-card",
+                        "link": {
+                          "url": "/correspondent-attorney-services/",
+                          "is_external": "",
+                          "nofollow": ""
+                        }
+                      },
+                      "elements": [],
+                      "widgetType": "icon-box"
+                    }
+                  ],
+                  "isInner": false
+                },
+                {
+                  "id": "mok002a",
+                  "elType": "column",
+                  "settings": {
+                    "_column_size": 25,
+                    "_inline_size": null
+                  },
+                  "elements": [],
+                  "isInner": false
+                }
+              ],
+              "isInner": true
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "mok0036",
+      "elType": "section",
+      "settings": {
+        "structure": "20",
+        "content_width": "boxed",
+        "gap": "default",
+        "_css_classes": "mok-band",
+        "padding": {
+          "unit": "px",
+          "top": "88",
+          "right": "0",
+          "bottom": "88",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "mok002f",
+          "elType": "column",
+          "settings": {
+            "_column_size": 40,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "mok002e",
+              "elType": "widget",
+              "settings": {
+                "html": "<div class=\"portrait-frame\">Portrait of Edgeworth Mokhetle — to be supplied by the firm</div>"
+              },
+              "elements": [],
+              "widgetType": "html"
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "mok0035",
+          "elType": "column",
+          "settings": {
+            "_column_size": 60,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "mok0030",
+              "elType": "widget",
+              "settings": {
+                "title": "Our Director",
+                "header_size": "h6",
+                "_css_classes": "eyebrow"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "mok0031",
+              "elType": "widget",
+              "settings": {
+                "title": "Edgeworth Mokhetle",
+                "header_size": "h2"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "mok0032",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p style=\"color:var(--bronze-dark); font-weight:600;\">B.Proc, LLB · Admitted Attorney of the High Court of South Africa (2000)</p>"
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            },
+            {
+              "id": "mok0033",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p>Edgeworth Mokhetle is a seasoned legal practitioner admitted as an attorney of the High Court of South Africa in September 2000. He has served as a legal adviser and lectured in law, and brings extensive experience in personal injury, medical negligence, labour law and dispute resolution. He was formerly a partner of Kgomo, Mokhetle and Tlou Attorneys.</p>"
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            },
+            {
+              "id": "mok0034",
+              "elType": "widget",
+              "settings": {
+                "text": "View Full Profile &rarr;",
+                "link": {
+                  "url": "/about/",
+                  "is_external": "",
+                  "nofollow": ""
+                },
+                "_css_classes": "btn btn-outline btn-sm",
+                "button_type": "",
+                "size": "sm"
+              },
+              "elements": [],
+              "widgetType": "button"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "mok003a",
+      "elType": "section",
+      "settings": {
+        "structure": "10",
+        "content_width": "boxed",
+        "gap": "default",
+        "_css_classes": "mok-band band-dark",
+        "padding": {
+          "unit": "px",
+          "top": "88",
+          "right": "0",
+          "bottom": "0",
+          "left": "0",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#2B2A28"
+      },
+      "elements": [
+        {
+          "id": "mok0039",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "mok0037",
+              "elType": "widget",
+              "settings": {
+                "title": "Selected Institutional Experience",
+                "header_size": "h6",
+                "_css_classes": "eyebrow"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "mok0038",
+              "elType": "widget",
+              "settings": {
+                "title": "Trusted by Institutions. Proven in Practice.",
+                "header_size": "h2"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "mok0041",
+      "elType": "section",
+      "settings": {
+        "structure": "30",
+        "content_width": "boxed",
+        "gap": "default",
+        "_css_classes": "mok-band band-dark",
+        "padding": {
+          "unit": "px",
+          "top": "24",
+          "right": "0",
+          "bottom": "88",
+          "left": "0",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#2B2A28"
+      },
+      "elements": [
+        {
+          "id": "mok003c",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "mok003b",
+              "elType": "widget",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-landmark-dome",
+                  "library": "fa-solid"
+                },
+                "title_text": "Municipal &amp; Governance Advisory",
+                "description_text": "Policy, by-law and governance framework support for public-sector clients.",
+                "position": "top",
+                "_css_classes": "experience-card"
+              },
+              "elements": [],
+              "widgetType": "icon-box"
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "mok003e",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "mok003d",
+              "elType": "widget",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-file-shield",
+                  "library": "fa-solid"
+                },
+                "title_text": "Forensic &amp; Compliance Investigations",
+                "description_text": "Forensic audits into irregular expenditure, procurement and governance matters.",
+                "position": "top",
+                "_css_classes": "experience-card"
+              },
+              "elements": [],
+              "widgetType": "icon-box"
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "mok0040",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "mok003f",
+              "elType": "widget",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-scale-balanced",
+                  "library": "fa-solid"
+                },
+                "title_text": "Public-Sector Litigation",
+                "description_text": "High Court litigation on behalf of institutional clients.",
+                "position": "top",
+                "_css_classes": "experience-card"
+              },
+              "elements": [],
+              "widgetType": "icon-box"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "mok0044",
+      "elType": "section",
+      "settings": {
+        "structure": "10",
+        "content_width": "boxed",
+        "gap": "default",
+        "_css_classes": "mok-band band-dark",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "88",
+          "left": "0",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#2B2A28"
+      },
+      "elements": [
+        {
+          "id": "mok0043",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "mok0042",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p class=\"confirm-note\">Specific client names are withheld pending confirmation of permission to disclose each relationship.</p>"
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "mok0052",
+      "elType": "section",
+      "settings": {
+        "structure": "20",
+        "content_width": "boxed",
+        "gap": "default",
+        "_css_classes": "mok-band",
+        "padding": {
+          "unit": "px",
+          "top": "88",
+          "right": "0",
+          "bottom": "88",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "mok0049",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "mok0045",
+              "elType": "widget",
+              "settings": {
+                "title": "Forensic Investigations &amp; Legal Audits",
+                "header_size": "h6",
+                "_css_classes": "eyebrow"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "mok0046",
+              "elType": "widget",
+              "settings": {
+                "title": "Uncover. Analyse. Resolve.",
+                "header_size": "h2"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "mok0047",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p>Our investigation and forensic auditing services assist institutions in detecting fraud, mitigating risk and strengthening governance through evidence-led insights and actionable recommendations.</p>"
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            },
+            {
+              "id": "mok0048",
+              "elType": "widget",
+              "settings": {
+                "text": "View Capabilities &rarr;",
+                "link": {
+                  "url": "/forensic-investigations/",
+                  "is_external": "",
+                  "nofollow": ""
+                },
+                "_css_classes": "btn btn-outline btn-sm",
+                "button_type": "",
+                "size": "sm"
+              },
+              "elements": [],
+              "widgetType": "button"
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "mok0051",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "mok0050",
+              "elType": "widget",
+              "settings": {
+                "view": "traditional",
+                "icon_list": [
+                  {
+                    "text": "Forensic investigations",
+                    "selected_icon": {
+                      "value": "fas fa-check",
+                      "library": "fa-solid"
+                    },
+                    "_id": "004a"
+                  },
+                  {
+                    "text": "Fraud risk assessments",
+                    "selected_icon": {
+                      "value": "fas fa-check",
+                      "library": "fa-solid"
+                    },
+                    "_id": "004b"
+                  },
+                  {
+                    "text": "Irregular expenditure reviews",
+                    "selected_icon": {
+                      "value": "fas fa-check",
+                      "library": "fa-solid"
+                    },
+                    "_id": "004c"
+                  },
+                  {
+                    "text": "Commissions of enquiry",
+                    "selected_icon": {
+                      "value": "fas fa-check",
+                      "library": "fa-solid"
+                    },
+                    "_id": "004d"
+                  },
+                  {
+                    "text": "Asset tracing and recovery",
+                    "selected_icon": {
+                      "value": "fas fa-check",
+                      "library": "fa-solid"
+                    },
+                    "_id": "004e"
+                  },
+                  {
+                    "text": "Procurement and governance investigations",
+                    "selected_icon": {
+                      "value": "fas fa-check",
+                      "library": "fa-solid"
+                    },
+                    "_id": "004f"
+                  }
+                ],
+                "_css_classes": "mok-cols-2"
+              },
+              "elements": [],
+              "widgetType": "icon-list"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "mok0055",
+      "elType": "section",
+      "settings": {
+        "structure": "10",
+        "content_width": "boxed",
+        "gap": "default",
+        "_css_classes": "mok-band tag-band",
+        "padding": {
+          "unit": "px",
+          "top": "88",
+          "right": "0",
+          "bottom": "88",
+          "left": "0",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#FFFFFF"
+      },
+      "elements": [
+        {
+          "id": "mok0054",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "mok0053",
+              "elType": "widget",
+              "settings": {
+                "html": "<div class=\"assistant-panel\" style=\"max-width:640px; margin:0 auto; text-align:center;\"><span class=\"eyebrow\" style=\"color:var(--bronze);\">AI-Powered Legal Intake</span><h2 style=\"color:var(--white);\">Start Your Matter Intelligently</h2><p style=\"color:var(--silver-light);\">The Mokhetle Legal Assistant guides you through a secure intake process and connects you with the right person at our firm.</p><a class=\"btn btn-primary btn-sm\" href=\"/ai-legal-assistant/\">Try the Assistant &rarr;</a><p class=\"disclaimer\">The information provided by this assistant is general in nature and does not constitute legal advice.</p></div>"
+              },
+              "elements": [],
+              "widgetType": "html"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "mok0059",
+      "elType": "section",
+      "settings": {
+        "structure": "10",
+        "content_width": "boxed",
+        "gap": "default",
+        "_css_classes": "mok-band",
+        "padding": {
+          "unit": "px",
+          "top": "88",
+          "right": "0",
+          "bottom": "88",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "mok0058",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null,
+            "_css_classes": "mok-center"
+          },
+          "elements": [
+            {
+              "id": "mok0056",
+              "elType": "widget",
+              "settings": {
+                "title": "Frequently Asked Questions",
+                "header_size": "h6",
+                "_css_classes": "eyebrow"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "mok0057",
+              "elType": "widget",
+              "settings": {
+                "title": "Common Questions, Answered",
+                "header_size": "h2"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "mok0060",
+      "elType": "section",
+      "settings": {
+        "structure": "10",
+        "content_width": "boxed",
+        "gap": "default",
+        "_css_classes": "mok-band",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "88",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "mok005f",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null,
+            "_css_classes": "mok-narrow"
+          },
+          "elements": [
+            {
+              "id": "mok005e",
+              "elType": "widget",
+              "settings": {
+                "tabs": [
+                  {
+                    "tab_title": "Does Mokhetle Attorneys Inc. handle Road Accident Fund claims?",
+                    "tab_content": "Yes. Our personal injury practice assists with Road Accident Fund and third-party motor vehicle accident claims, assessed on their own facts and merits.",
+                    "_id": "005a"
+                  },
+                  {
+                    "tab_title": "Can you act as correspondent attorney in Mahikeng?",
+                    "tab_content": "Yes. Given our proximity to the North West Division of the High Court, we assist instructing attorneys with filing, service and local appearances.",
+                    "_id": "005b"
+                  },
+                  {
+                    "tab_title": "Do you assist municipalities and government institutions?",
+                    "tab_content": "Yes, across advisory, governance, compliance and forensic investigation work.",
+                    "_id": "005c"
+                  },
+                  {
+                    "tab_title": "Is my information kept confidential?",
+                    "tab_content": "Yes, in line with our POPIA obligations and legal professional privilege.",
+                    "_id": "005d"
+                  }
+                ],
+                "_css_classes": "mok-faq"
+              },
+              "elements": [],
+              "widgetType": "accordion"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "mok0068",
+      "elType": "section",
+      "settings": {
+        "structure": "20",
+        "content_width": "boxed",
+        "gap": "default",
+        "_css_classes": "mok-band tag-band",
+        "padding": {
+          "unit": "px",
+          "top": "88",
+          "right": "0",
+          "bottom": "88",
+          "left": "0",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#FFFFFF"
+      },
+      "elements": [
+        {
+          "id": "mok0065",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "mok0061",
+              "elType": "widget",
+              "settings": {
+                "title": "Get In Touch",
+                "header_size": "h6",
+                "_css_classes": "eyebrow"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "mok0062",
+              "elType": "widget",
+              "settings": {
+                "title": "We're Here to Help",
+                "header_size": "h2"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "mok0063",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p>&#128222; <a href=\"tel:+27183812910\">(018) 381 2910/1</a><br>&#9993; <a href=\"mailto:info@mokhetleinc.co.za\">info@mokhetleinc.co.za</a><br>&#128205; 18 Havenga Street, Golfview, Mahikeng, 2745<br>&#128336; Mon–Fri: 08:00–17:00</p>"
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            },
+            {
+              "id": "mok0064",
+              "elType": "widget",
+              "settings": {
+                "html": "<div class=\"badge-row\"><span class=\"badge\">Registration No. 2014/230750/21</span></div>"
+              },
+              "elements": [],
+              "widgetType": "html"
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "mok0067",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "mok0066",
+              "elType": "widget",
+              "settings": {
+                "html": "<form data-demo-form>\n  <div class=\"form-grid\">\n    <div class=\"field\"><label>Full Name</label><input required></div>\n    <div class=\"field\"><label>Email Address</label><input type=\"email\" required></div>\n    <div class=\"field\"><label>Phone Number</label><input type=\"tel\"></div>\n    <div class=\"field\"><label>How can we help you?</label><select><option>Personal Injury / RAF</option><option>Medical Negligence</option><option>Civil Litigation</option><option>Labour Matter</option><option>Municipal / Public Sector</option><option>Commercial / Corporate</option><option>Forensic Investigation</option><option>Correspondent Instruction</option><option>General Enquiry</option></select></div>\n    <div class=\"field full\"><label>Your Message</label><textarea rows=\"4\"></textarea></div>\n    <div class=\"field full\"><label style=\"flex-direction:row;align-items:flex-start;gap:8px;font-weight:400;\"><input type=\"checkbox\" style=\"width:auto;margin-top:4px;\"> I consent to Mokhetle Attorneys Inc. processing the information above in line with the POPIA Privacy Notice, for the purpose of responding to my enquiry.</label></div>\n    <div class=\"field full\"><button class=\"btn btn-primary\" type=\"submit\">Submit Enquiry &rarr;</button></div>\n    <div class=\"form-msg full\"></div>\n  </div>\n</form>"
+              },
+              "elements": [],
+              "widgetType": "html"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "mok006c",
+      "elType": "section",
+      "settings": {
+        "structure": "10",
+        "content_width": "boxed",
+        "gap": "default",
+        "_css_classes": "mok-band",
+        "padding": {
+          "unit": "px",
+          "top": "88",
+          "right": "0",
+          "bottom": "88",
+          "left": "0",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#F4EEE3"
+      },
+      "elements": [
+        {
+          "id": "mok006b",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null,
+            "_css_classes": "mok-center"
+          },
+          "elements": [
+            {
+              "id": "mok0069",
+              "elType": "widget",
+              "settings": {
+                "title": "Ready to discuss your matter?",
+                "header_size": "h2",
+                "align": "center"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "mok006a",
+              "elType": "widget",
+              "settings": {
+                "html": "<div class=\"hero-ctas\" style=\"justify-content:center;\"><a class=\"btn btn-primary\" href=\"/contact/\">Speak to an Attorney</a> <a class=\"btn btn-outline\" href=\"/ai-legal-assistant/\">Start a Secure Enquiry</a></div>"
+              },
+              "elements": [],
+              "widgetType": "html"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    }
+  ],
+  "page_settings": [],
+  "version": "0.4",
+  "title": "Mokhetle — Home",
+  "type": "page"
+}

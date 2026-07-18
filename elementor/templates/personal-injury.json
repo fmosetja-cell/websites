@@ -1,0 +1,448 @@
+{
+  "content": [
+    {
+      "id": "mok00c8",
+      "elType": "section",
+      "settings": {
+        "structure": "10",
+        "content_width": "boxed",
+        "gap": "default",
+        "_css_classes": "mok-band inner-hero",
+        "padding": {
+          "unit": "px",
+          "top": "60",
+          "right": "0",
+          "bottom": "52",
+          "left": "0",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#2B2A28"
+      },
+      "elements": [
+        {
+          "id": "mok00c7",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "mok00c4",
+              "elType": "widget",
+              "settings": {
+                "editor": "<a href=\"/\">Home</a> / Practice Areas / Personal Injury &amp; RAF Claims",
+                "_css_classes": "breadcrumb"
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            },
+            {
+              "id": "mok00c5",
+              "elType": "widget",
+              "settings": {
+                "title": "Personal Injury &amp; Medical Negligence",
+                "header_size": "h6",
+                "_css_classes": "eyebrow"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "mok00c6",
+              "elType": "widget",
+              "settings": {
+                "title": "Road Accident Fund &amp; Personal Injury Claims",
+                "header_size": "h1"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "mok00d3",
+      "elType": "section",
+      "settings": {
+        "structure": "20",
+        "content_width": "boxed",
+        "gap": "default",
+        "_css_classes": "mok-band",
+        "padding": {
+          "unit": "px",
+          "top": "88",
+          "right": "0",
+          "bottom": "88",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "mok00cb",
+          "elType": "column",
+          "settings": {
+            "_column_size": 60,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "mok00c9",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p>Mokhetle Attorneys Inc. assists individuals who have been injured in motor vehicle accidents or as a result of medical negligence to pursue the compensation they are entitled to under South African law. Every matter is assessed on its own facts, evidence and merits — we do not estimate or guarantee compensation amounts before a proper assessment has been carried out.</p>"
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            },
+            {
+              "id": "mok00ca",
+              "elType": "widget",
+              "settings": {
+                "html": "<div class=\"hero-ctas\"><a class=\"btn btn-primary\" href=\"#raf-intake\">Start Your RAF Enquiry</a> <a class=\"btn btn-outline\" href=\"/contact/\">Speak to an Attorney</a></div>"
+              },
+              "elements": [],
+              "widgetType": "html"
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "mok00d2",
+          "elType": "column",
+          "settings": {
+            "_column_size": 40,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "mok00d1",
+              "elType": "widget",
+              "settings": {
+                "view": "traditional",
+                "icon_list": [
+                  {
+                    "text": "Road Accident Fund claims",
+                    "selected_icon": {
+                      "value": "fas fa-check",
+                      "library": "fa-solid"
+                    },
+                    "_id": "00cc"
+                  },
+                  {
+                    "text": "Third-party motor vehicle accident claims",
+                    "selected_icon": {
+                      "value": "fas fa-check",
+                      "library": "fa-solid"
+                    },
+                    "_id": "00cd"
+                  },
+                  {
+                    "text": "Medical negligence claims",
+                    "selected_icon": {
+                      "value": "fas fa-check",
+                      "library": "fa-solid"
+                    },
+                    "_id": "00ce"
+                  },
+                  {
+                    "text": "Personal injury litigation",
+                    "selected_icon": {
+                      "value": "fas fa-check",
+                      "library": "fa-solid"
+                    },
+                    "_id": "00cf"
+                  },
+                  {
+                    "text": "Assessment and management of damages claims",
+                    "selected_icon": {
+                      "value": "fas fa-check",
+                      "library": "fa-solid"
+                    },
+                    "_id": "00d0"
+                  }
+                ]
+              },
+              "elements": [],
+              "widgetType": "icon-list"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "mok00d7",
+      "elType": "section",
+      "settings": {
+        "structure": "10",
+        "content_width": "boxed",
+        "gap": "default",
+        "_css_classes": "mok-band tag-band",
+        "padding": {
+          "unit": "px",
+          "top": "88",
+          "right": "0",
+          "bottom": "88",
+          "left": "0",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#F4EEE3"
+      },
+      "elements": [
+        {
+          "id": "mok00d6",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null,
+            "_css_classes": "mok-center"
+          },
+          "elements": [
+            {
+              "id": "mok00d4",
+              "elType": "widget",
+              "settings": {
+                "title": "What to Expect",
+                "header_size": "h6",
+                "_css_classes": "eyebrow"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "mok00d5",
+              "elType": "widget",
+              "settings": {
+                "title": "How a Road Accident Fund Claim Typically Proceeds",
+                "header_size": "h2"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "mok00e0",
+      "elType": "section",
+      "settings": {
+        "structure": "40",
+        "content_width": "boxed",
+        "gap": "default",
+        "_css_classes": "mok-band tag-band",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "88",
+          "left": "0",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#F4EEE3"
+      },
+      "elements": [
+        {
+          "id": "mok00d9",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "mok00d8",
+              "elType": "widget",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-1",
+                  "library": "fa-solid"
+                },
+                "title_text": "Initial Consultation",
+                "description_text": "We gather the facts of the accident, your injuries, and any documentation already available.",
+                "position": "top",
+                "_css_classes": "pillar"
+              },
+              "elements": [],
+              "widgetType": "icon-box"
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "mok00db",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "mok00da",
+              "elType": "widget",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-2",
+                  "library": "fa-solid"
+                },
+                "title_text": "Investigation &amp; Documentation",
+                "description_text": "Collection of medical records, police reports and supporting evidence to build the claim.",
+                "position": "top",
+                "_css_classes": "pillar"
+              },
+              "elements": [],
+              "widgetType": "icon-box"
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "mok00dd",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "mok00dc",
+              "elType": "widget",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-3",
+                  "library": "fa-solid"
+                },
+                "title_text": "Submission &amp; Negotiation",
+                "description_text": "Lodging the claim and engaging with the Road Accident Fund on your behalf.",
+                "position": "top",
+                "_css_classes": "pillar"
+              },
+              "elements": [],
+              "widgetType": "icon-box"
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "mok00df",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "mok00de",
+              "elType": "widget",
+              "settings": {
+                "selected_icon": {
+                  "value": "fas fa-4",
+                  "library": "fa-solid"
+                },
+                "title_text": "Resolution",
+                "description_text": "Settlement negotiation or, where necessary, litigation to bring the matter to a conclusion.",
+                "position": "top",
+                "_css_classes": "pillar"
+              },
+              "elements": [],
+              "widgetType": "icon-box"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "mok00e6",
+      "elType": "section",
+      "settings": {
+        "structure": "10",
+        "content_width": "boxed",
+        "gap": "default",
+        "_css_classes": "mok-band band-dark",
+        "padding": {
+          "unit": "px",
+          "top": "88",
+          "right": "0",
+          "bottom": "88",
+          "left": "0",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#2B2A28"
+      },
+      "elements": [
+        {
+          "id": "mok00e5",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null,
+            "_css_classes": "mok-narrow mok-center"
+          },
+          "elements": [
+            {
+              "id": "mok00e1",
+              "elType": "widget",
+              "settings": {
+                "title": "AI-Assisted RAF Intake",
+                "header_size": "h6",
+                "_css_classes": "eyebrow",
+                "align": "center"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "mok00e2",
+              "elType": "widget",
+              "settings": {
+                "title": "Start Your Road Accident Fund Enquiry",
+                "header_size": "h2",
+                "align": "center"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "mok00e3",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p style=\"max-width:640px;margin:0 auto 24px;text-align:center;\">The assistant below will ask a short set of questions specific to Road Accident Fund and personal injury matters. This is a simulated, front-end-only demonstration — no information is transmitted or stored.</p>"
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            },
+            {
+              "id": "mok00e4",
+              "elType": "widget",
+              "settings": {
+                "html": "<div class=\"assistant-panel\" data-assistant>\n  <div class=\"chat-window\"></div>\n  <div class=\"chat-input-row\">\n    <input type=\"text\" placeholder=\"Type your message&hellip;\" aria-label=\"Your message\" disabled>\n    <button type=\"button\">Send</button>\n  </div>\n  <p class=\"disclaimer\">The information provided by this assistant is general in nature and does not constitute legal advice. An attorney-client relationship is only created after the firm formally accepts an instruction.</p>\n</div>"
+              },
+              "elements": [],
+              "widgetType": "html"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    }
+  ],
+  "page_settings": [],
+  "version": "0.4",
+  "title": "Mokhetle — Personal Injury & RAF Claims",
+  "type": "page"
+}

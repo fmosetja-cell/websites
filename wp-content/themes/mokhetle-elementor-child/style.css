@@ -1,0 +1,16 @@
+/*
+Theme Name: Mokhetle Attorneys (Elementor Child)
+Theme URI: https://www.mokhetleinc.co.za/
+Description: Elementor-ready child theme for Mokhetle Attorneys Inc. Parent: Hello Elementor. Loads the firm's full design system (warm beige/charcoal/bronze palette, Cormorant Garamond + Jost typography, and every component class from the approved "Homepage 2" prototype) plus Elementor-structure overrides, so pages rebuilt with native Elementor Pro widgets inherit the exact look. Pair with the importable templates in /elementor/templates/.
+Author: Mokhetle Attorneys Inc.
+Template: hello-elementor
+Version: 1.0.0
+Requires at least: 6.0
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: mokhetle-elementor-child
+*/
+
+/* Styles are enqueued from functions.php (design-system.css + elementor-overrides.css).
+   Keep rules in those files so versioning/caching works. */

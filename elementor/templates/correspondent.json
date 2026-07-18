@@ -1,0 +1,275 @@
+{
+  "content": [
+    {
+      "id": "mok0114",
+      "elType": "section",
+      "settings": {
+        "structure": "10",
+        "content_width": "boxed",
+        "gap": "default",
+        "_css_classes": "mok-band inner-hero",
+        "padding": {
+          "unit": "px",
+          "top": "60",
+          "right": "0",
+          "bottom": "52",
+          "left": "0",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#2B2A28"
+      },
+      "elements": [
+        {
+          "id": "mok0113",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "mok0110",
+              "elType": "widget",
+              "settings": {
+                "editor": "<a href=\"/\">Home</a> / Practice Areas / Correspondent Attorney Services",
+                "_css_classes": "breadcrumb"
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            },
+            {
+              "id": "mok0111",
+              "elType": "widget",
+              "settings": {
+                "title": "Correspondent Attorney Services",
+                "header_size": "h6",
+                "_css_classes": "eyebrow"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "mok0112",
+              "elType": "widget",
+              "settings": {
+                "title": "Local Support for High Court Matters in Mahikeng",
+                "header_size": "h1"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "mok0120",
+      "elType": "section",
+      "settings": {
+        "structure": "20",
+        "content_width": "boxed",
+        "gap": "default",
+        "_css_classes": "mok-band",
+        "padding": {
+          "unit": "px",
+          "top": "88",
+          "right": "0",
+          "bottom": "88",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "mok0117",
+          "elType": "column",
+          "settings": {
+            "_column_size": 60,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "mok0115",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p>Mokhetle Attorneys Inc. is conveniently located near the North West Division of the High Court in Mahikeng, and regularly assists instructing attorneys from other regions with correspondent work. We understand that a reliable local correspondent is essential to keeping matters on track — our team is set up to respond quickly to instructions and to keep instructing attorneys informed at every step.</p>"
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            },
+            {
+              "id": "mok0116",
+              "elType": "widget",
+              "settings": {
+                "text": "Submit a Correspondent Instruction",
+                "link": {
+                  "url": "#instruction",
+                  "is_external": "",
+                  "nofollow": ""
+                },
+                "_css_classes": "btn btn-primary",
+                "button_type": "",
+                "size": "sm"
+              },
+              "elements": [],
+              "widgetType": "button"
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "mok011f",
+          "elType": "column",
+          "settings": {
+            "_column_size": 40,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "mok011e",
+              "elType": "widget",
+              "settings": {
+                "view": "traditional",
+                "icon_list": [
+                  {
+                    "text": "Filing and issuing court documents",
+                    "selected_icon": {
+                      "value": "fas fa-check",
+                      "library": "fa-solid"
+                    },
+                    "_id": "0118"
+                  },
+                  {
+                    "text": "Court appearances",
+                    "selected_icon": {
+                      "value": "fas fa-check",
+                      "library": "fa-solid"
+                    },
+                    "_id": "0119"
+                  },
+                  {
+                    "text": "Service of legal documents",
+                    "selected_icon": {
+                      "value": "fas fa-check",
+                      "library": "fa-solid"
+                    },
+                    "_id": "011a"
+                  },
+                  {
+                    "text": "Matter monitoring",
+                    "selected_icon": {
+                      "value": "fas fa-check",
+                      "library": "fa-solid"
+                    },
+                    "_id": "011b"
+                  },
+                  {
+                    "text": "Local procedural support",
+                    "selected_icon": {
+                      "value": "fas fa-check",
+                      "library": "fa-solid"
+                    },
+                    "_id": "011c"
+                  },
+                  {
+                    "text": "Urgent High Court instructions",
+                    "selected_icon": {
+                      "value": "fas fa-check",
+                      "library": "fa-solid"
+                    },
+                    "_id": "011d"
+                  }
+                ]
+              },
+              "elements": [],
+              "widgetType": "icon-list"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "mok0126",
+      "elType": "section",
+      "settings": {
+        "structure": "10",
+        "content_width": "boxed",
+        "gap": "default",
+        "_css_classes": "mok-band tag-band",
+        "padding": {
+          "unit": "px",
+          "top": "88",
+          "right": "0",
+          "bottom": "88",
+          "left": "0",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#F4EEE3"
+      },
+      "elements": [
+        {
+          "id": "mok0125",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null,
+            "_css_classes": "mok-narrow"
+          },
+          "elements": [
+            {
+              "id": "mok0121",
+              "elType": "widget",
+              "settings": {
+                "title": "Submit an Instruction",
+                "header_size": "h6",
+                "_css_classes": "eyebrow"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "mok0122",
+              "elType": "widget",
+              "settings": {
+                "title": "Correspondent Instruction Form",
+                "header_size": "h2"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "mok0123",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p>Please provide the details below so we can action your instruction promptly. This is a prototype form — no instruction is actually transmitted.</p>"
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            },
+            {
+              "id": "mok0124",
+              "elType": "widget",
+              "settings": {
+                "html": "<form data-demo-form>\n  <div class=\"form-grid\">\n    <div class=\"field\"><label>Instructing Attorney</label><input required></div>\n    <div class=\"field\"><label>Law Firm</label><input></div>\n    <div class=\"field\"><label>Court &amp; Division</label><input></div>\n    <div class=\"field\"><label>Case Number</label><input></div>\n    <div class=\"field full\"><label>Parties</label><input></div>\n    <div class=\"field\"><label>Nature of Instruction</label><select><option>Filing of documents</option><option>Court appearance</option><option>Service of documents</option><option>Matter monitoring</option><option>Urgent application</option></select></div>\n    <div class=\"field\"><label>Appearance / Filing Date</label><input type=\"date\"></div>\n    <div class=\"field full\"><label>Documents Requiring Filing or Service</label><textarea rows=\"3\"></textarea></div>\n    <div class=\"field full\"><button class=\"btn btn-primary\" type=\"submit\">Submit Instruction &rarr;</button></div>\n    <div class=\"form-msg full\"></div>\n  </div>\n</form>"
+              },
+              "elements": [],
+              "widgetType": "html"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    }
+  ],
+  "page_settings": [],
+  "version": "0.4",
+  "title": "Mokhetle — Correspondent Attorney Services",
+  "type": "page"
+}

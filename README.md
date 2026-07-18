@@ -5,15 +5,33 @@ a Mahikeng-based law firm. The build follows the **"Homepage 2 — Modern Approa
 design concept (warm beige/champagne, charcoal and bronze palette; Cormorant Garamond +
 Jost typography) and ports every prototype page faithfully into a custom WordPress theme.
 
+## Two builds in this repo
+
+The site is delivered two ways — pick the one that matches how you'll edit it:
+
+- **Elementor Pro build** (`elementor/` + `wp-content/themes/mokhetle-elementor-child/`)
+  — **the intended editing path.** A Hello Elementor child theme carrying the
+  full design system, plus importable Elementor templates that rebuild every
+  page with native widgets. See **`elementor/README.md`** for install/import.
+- **Classic custom theme** (`wp-content/themes/mokhetle-attorneys/`) — a
+  self-contained, page-builder-free theme that renders the whole site with no
+  plugins. Kept as a reference/fallback and for anyone not using Elementor.
+
+> Note: Elementor and block/FSE editing are different systems — this build
+> targets **Elementor Pro**, not the block editor, per the chosen workflow.
+
 ## What's in here
 
 ```
-wp-content/themes/mokhetle-attorneys/   The custom theme (this IS the site)
-export/mokhetle-content.xml             WordPress import file (all pages) — the portable "DB"
-export/setup.sh                         One-command install + real MySQL dump (via Docker)
-docker-compose.yml                      Local WordPress + MariaDB stack
-docs/                                   Strategy, sitemap, content gaps, tech-stack (from the brief)
-reference/static-prototype/             The original static HTML prototype, for reference/diffing
+elementor/templates/*.json                  Importable Elementor page templates (native widgets)
+elementor/README.md                          Elementor install + import guide + widget mapping
+wp-content/themes/mokhetle-elementor-child/  Hello Elementor child theme (design system + overrides)
+wp-content/themes/mokhetle-attorneys/        Classic custom theme (plugin-free fallback)
+export/mokhetle-content.xml                  WordPress import file (all pages) — portable "DB"
+export/setup.sh                              One-command install + real MySQL dump (via Docker)
+docker-compose.yml                           Local WordPress + MariaDB stack
+docs/                                        Strategy, sitemap, content gaps, tech-stack (from the brief)
+reference/static-prototype/                  The original static HTML prototype, for reference/diffing
 ```
 
 ## The theme

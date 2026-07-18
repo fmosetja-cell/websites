@@ -1,0 +1,270 @@
+{
+  "content": [
+    {
+      "id": "mok016a",
+      "elType": "section",
+      "settings": {
+        "structure": "10",
+        "content_width": "boxed",
+        "gap": "default",
+        "_css_classes": "mok-band inner-hero",
+        "padding": {
+          "unit": "px",
+          "top": "60",
+          "right": "0",
+          "bottom": "52",
+          "left": "0",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#2B2A28"
+      },
+      "elements": [
+        {
+          "id": "mok0169",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "mok0166",
+              "elType": "widget",
+              "settings": {
+                "editor": "<a href=\"/\">Home</a> / Contact Us",
+                "_css_classes": "breadcrumb"
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            },
+            {
+              "id": "mok0167",
+              "elType": "widget",
+              "settings": {
+                "title": "Get In Touch",
+                "header_size": "h6",
+                "_css_classes": "eyebrow"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "mok0168",
+              "elType": "widget",
+              "settings": {
+                "title": "We're Here to Help",
+                "header_size": "h1"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "mok016d",
+      "elType": "section",
+      "settings": {
+        "structure": "10",
+        "content_width": "boxed",
+        "gap": "default",
+        "_css_classes": "mok-band",
+        "padding": {
+          "unit": "px",
+          "top": "88",
+          "right": "0",
+          "bottom": "88",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "mok016c",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "mok016b",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p style=\"max-width:820px;\">Whether you are an individual, a business, an instructing attorney, or a public institution, our team is ready to assist. Reach us directly using the details below, or submit an enquiry through the form or our AI Legal Assistant.</p>"
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "mok0175",
+      "elType": "section",
+      "settings": {
+        "structure": "20",
+        "content_width": "boxed",
+        "gap": "default",
+        "_css_classes": "mok-band",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "88",
+          "left": "0",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "mok0172",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "mok016e",
+              "elType": "widget",
+              "settings": {
+                "title": "Office Details",
+                "header_size": "h3"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "mok016f",
+              "elType": "widget",
+              "settings": {
+                "editor": "<p>&#128222; <a href=\"tel:+27183812910\">(018) 381 2910/1</a><br>&#9993; <a href=\"mailto:info@mokhetleinc.co.za\">info@mokhetleinc.co.za</a><br>&#128205; 18 Havenga Street, Golfview, Mahikeng, 2745<br>&#128238; P.O. Box 2843, Mahikeng, 2745<br>&#128336; Monday–Friday: 08:00–17:00</p>"
+              },
+              "elements": [],
+              "widgetType": "text-editor"
+            },
+            {
+              "id": "mok0170",
+              "elType": "widget",
+              "settings": {
+                "html": "<div class=\"badge-row\"><span class=\"badge\">Registration No. 2014/230750/21</span></div>"
+              },
+              "elements": [],
+              "widgetType": "html"
+            },
+            {
+              "id": "mok0171",
+              "elType": "widget",
+              "settings": {
+                "html": "<div class=\"portrait-frame\" style=\"aspect-ratio:16/7;margin-top:18px;\">Interactive map to be embedded here — 18 Havenga Street, Golfview, Mahikeng, 2745</div>"
+              },
+              "elements": [],
+              "widgetType": "html"
+            }
+          ],
+          "isInner": false
+        },
+        {
+          "id": "mok0174",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "mok0173",
+              "elType": "widget",
+              "settings": {
+                "html": "<form data-demo-form>\n  <div class=\"form-grid\">\n    <div class=\"field\"><label>Full Name</label><input required></div>\n    <div class=\"field\"><label>Email Address</label><input type=\"email\" required></div>\n    <div class=\"field\"><label>Phone Number</label><input type=\"tel\"></div>\n    <div class=\"field\"><label>How can we help you?</label><select><option>Personal Injury / RAF</option><option>Medical Negligence</option><option>Civil Litigation</option><option>Labour Matter</option><option>Municipal / Public Sector</option><option>Commercial / Corporate</option><option>Forensic Investigation</option><option>Correspondent Instruction</option><option>General Enquiry</option></select></div>\n    <div class=\"field full\"><label>Your Message</label><textarea rows=\"4\"></textarea></div>\n    <div class=\"field full\"><label style=\"flex-direction:row;align-items:flex-start;gap:8px;font-weight:400;\"><input type=\"checkbox\" style=\"width:auto;margin-top:4px;\"> I consent to Mokhetle Attorneys Inc. processing the information above in line with the POPIA Privacy Notice, for the purpose of responding to my enquiry.</label></div>\n    <div class=\"field full\"><button class=\"btn btn-primary\" type=\"submit\">Submit Enquiry &rarr;</button></div>\n    <div class=\"form-msg full\"></div>\n  </div>\n</form>"
+              },
+              "elements": [],
+              "widgetType": "html"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    },
+    {
+      "id": "mok017a",
+      "elType": "section",
+      "settings": {
+        "structure": "10",
+        "content_width": "boxed",
+        "gap": "default",
+        "_css_classes": "mok-band tag-band",
+        "padding": {
+          "unit": "px",
+          "top": "88",
+          "right": "0",
+          "bottom": "88",
+          "left": "0",
+          "isLinked": false
+        },
+        "background_background": "classic",
+        "background_color": "#F4EEE3"
+      },
+      "elements": [
+        {
+          "id": "mok0179",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null,
+            "_css_classes": "mok-center"
+          },
+          "elements": [
+            {
+              "id": "mok0176",
+              "elType": "widget",
+              "settings": {
+                "title": "Prefer a guided enquiry?",
+                "header_size": "h6",
+                "_css_classes": "eyebrow",
+                "align": "center"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "mok0177",
+              "elType": "widget",
+              "settings": {
+                "title": "Start with the AI Legal Assistant",
+                "header_size": "h2",
+                "align": "center"
+              },
+              "elements": [],
+              "widgetType": "heading"
+            },
+            {
+              "id": "mok0178",
+              "elType": "widget",
+              "settings": {
+                "html": "<div class=\"hero-ctas\" style=\"justify-content:center;\"><a class=\"btn btn-primary\" href=\"/ai-legal-assistant/\">Open the AI Legal Assistant</a> <a class=\"btn btn-outline\" href=\"https://wa.me/27000000000\" target=\"_blank\" rel=\"noopener\">Message us on WhatsApp</a></div>"
+              },
+              "elements": [],
+              "widgetType": "html"
+            }
+          ],
+          "isInner": false
+        }
+      ],
+      "isInner": false
+    }
+  ],
+  "page_settings": [],
+  "version": "0.4",
+  "title": "Mokhetle — Contact Us",
+  "type": "page"
+}
