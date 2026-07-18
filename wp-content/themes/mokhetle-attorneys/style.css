@@ -1,0 +1,20 @@
+/*
+Theme Name: Mokhetle Attorneys Inc.
+Theme URI: https://www.mokhetleinc.co.za/
+Author: Mokhetle Attorneys Inc.
+Description: Custom WordPress theme for Mokhetle Attorneys Inc., a Mahikeng-based law firm. Converted faithfully from the approved static prototype ("Homepage 2 — Modern Approachable" design system). Warm beige/champagne, charcoal and bronze palette; Cormorant Garamond + Jost typography. Ships all prototype pages as templates, with an on-activation setup routine that creates the pages, menus and static front page automatically.
+Version: 1.0.0
+Requires at least: 6.0
+Tested up to: 6.7
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: mokhetle-attorneys
+Tags: business, law-firm, custom-colors, custom-menu, featured-images, sticky-post, translation-ready
+*/
+
+/*
+ * The full design system lives in assets/css/main.css (enqueued via functions.php).
+ * This file only carries the required WordPress theme header. Do not put layout
+ * rules here — keep them in assets/css/main.css so caching/versioning works.
+ */
